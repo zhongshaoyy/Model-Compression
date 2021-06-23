@@ -17,9 +17,9 @@ Use ```torchvision.datasets.CIFAR10()```
 model-compress
 
 
-|-- AAL-pruning     剪枝
+|-- pruning     剪枝
 
-|-- Attention_distillation    蒸馏
+|-- distillation    蒸馏
 
-|-- Quantized_torch      量化
+|-- quantization      量化
 
